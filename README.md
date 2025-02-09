@@ -24,6 +24,10 @@ Annual_Premium: The amount customer needs to pay as premium in the year
 PolicySalesChannel: Anonymized Code for the channel of outreaching to the customer ie. Different Agents, Over Mail, Over Phone, In Person, etc.
 Vintage: Number of Days, Customer has been associated with the company
 
+Webpage Preview:
+
+![image](https://github.com/nirdeshbandi/Developing-a-system-for-cross-selling-insurance-products-using-machine-learning-algorithms/blob/4b2625151a4ca211ef4b4ebff194a9220f3070fa/Screenshot%202.jpeg)
+
 Response: 1: Customer is interested, 0: Customer is not interested in buying car insurance
 Using the data provided:
 
